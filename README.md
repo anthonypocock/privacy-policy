@@ -346,8 +346,6 @@
 
 <div style="line-height: 1.5;"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span style="font-size: 15px; color: rgb(89, 89, 89);"><span data-custom-class="body_text">Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking </span><span style="color: rgb(48, 48, 241);"><span data-custom-class="body_text"><span style="font-size: 15px;">[here](https://app.termly.io/notify/d4abe24f-8a88-4f46-8b72-b87a4c042c7f)</span></span></span><bdt class="block-component"><span data-custom-class="body_text"></span></bdt></span></span><span data-custom-class="body_text">.<span style="font-size: 15px;"><span data-custom-class="body_text"></span></span></span></div>
 
-<style>ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }</style></div>
-
 <div style="color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;">This privacy policy was created using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).</div>
 
 </div>
